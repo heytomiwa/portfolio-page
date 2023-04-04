@@ -6,7 +6,7 @@
 
 The power of FastAi, PyTorch and ResNet18 with this deep learning neural network model that accurately classifies DC and Marvel characters - making it a must-have tool for any comic book database and fandom
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![]((https://img.shields.io/badge/FastAI-white?logo=fastai)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1XSerXrQUfuNg3A6fpxEa4NUtL8XmokMN?usp=sharing)
 

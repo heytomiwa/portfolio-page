@@ -7,7 +7,8 @@ The power of FastAi, PyTorch and ResNet18 with this deep learning neural network
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/FastAI-white?logo=fastai)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1XSerXrQUfuNg3A6fpxEa4NUtL8XmokMN?usp=sharing)
+* [View code on Colab](https://colab.research.google.com/drive/1XSerXrQUfuNg3A6fpxEa4NUtL8XmokMN?usp=sharing)
+* [View deployed model on HuggingFace](https://huggingface.co/spaces/troublledwaters/comicsClassifier)
 
 ---
 
@@ -16,8 +17,8 @@ I developed an AI writing assistant that leverages OpenAI's GPT-3 model to gener
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/OpenAI-white?logo=openai)](#) [![](https://img.shields.io/badge/GPT-white?logo=gpt-3)](#) [![](https://img.shields.io/badge/StreamLit-white?logo=streamlit)](#)
 
-[View app on StreamLit](https://inkwell.streamlit.app/)
-[View code in GitHub](https://github.com/heytomiwa/startup-writing-assistant)
+* [View app on StreamLit](https://inkwell.streamlit.app/)
+* [View code in GitHub](https://github.com/heytomiwa/startup-writing-assistant)
 
 ---
 

@@ -16,11 +16,12 @@ I developed an AI writing assistant that leverages OpenAI's GPT-3 model to gener
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/OpenAI-white?logo=openai)](#) [![](https://img.shields.io/badge/GPT-white?logo=gpt-3)](#) [![](https://img.shields.io/badge/StreamLit-white?logo=streamlit)](#)
 
-View code on Colab
-<!--
+[View app on StreamLit](https://inkwell.streamlit.app/)
+[View code in GitHub](https://github.com/heytomiwa/startup-writing-assistant)
+
 ---
 
-### The Fragile Families Challenge: ML with Bayesian hyperparameter tuning, KNN missing values imputation, and data preprocessing Pipelines
+<!-- ### The Fragile Families Challenge: ML with Bayesian hyperparameter tuning, KNN missing values imputation, and data preprocessing Pipelines
 The Fragile Families Challenge was a predictive modelling challenge commissioned by researchers at Princeton University in 2017. In the challenge, participants were tasked with predicting six life outcomes (GPA, material hardship, grit, eviction, layoff, and job training) for 4,242 children based on their cirumstances between birth and age 9. 
 
 I took part in this challenge, using various ML and NLP techniques including: (i) imputing missing values using word embeddings and KNN, (ii) modelling with LASSO, Random Forests and XGBoost models, (iii) Bayesian hyperparameter optimisation, and (iv) using feature importance scores to interpret the models' predictions. 
